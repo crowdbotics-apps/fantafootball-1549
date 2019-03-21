@@ -1,0 +1,3 @@
+rootProject.name = 'fantafootball_1549'
+
+include ':app'
